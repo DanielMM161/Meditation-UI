@@ -1,4 +1,4 @@
-package com.dmm.meditation_ui.ui.theme
+package com.dmm.meditation_ui.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

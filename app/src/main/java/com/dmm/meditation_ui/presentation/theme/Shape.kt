@@ -1,4 +1,4 @@
-package com.dmm.meditation_ui.ui.theme
+package com.dmm.meditation_ui.presentation.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
